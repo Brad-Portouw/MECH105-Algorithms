@@ -17,5 +17,5 @@ binaryConverter is a matlab script that will convert a positive base 10 number i
 1. Checks to see if input is either 0 or negative
    - If 0 base2=0
    - If neg throws error
-2. Run a while loop of the function: 'base10-(2^n) >=0; n=n+1'
+2. Run a while loop of the function: ' base10-(2^n) >=0; n=n+1 '
 
