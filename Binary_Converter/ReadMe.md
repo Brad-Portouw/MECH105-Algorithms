@@ -10,4 +10,6 @@ binaryConverter is a matlab script that will convert a base 10 number into a bin
 
 ### Outputs:
 
-- base2 - a number in base 2
+-base2 - a number in base 2
+
+
