@@ -1,6 +1,6 @@
 ## binaryConverter(base10)
 
-binaryConverter is a matlab script that will convert a positive base 10 number into a binary (base2) number:
+binaryConverter is a matlab script that will convert a positive base 10 number into a positive non float binary (base2) number:
 
 **function [base2] = binaryConverter(base10)**
 
