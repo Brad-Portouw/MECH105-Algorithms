@@ -10,7 +10,7 @@ Algorithms made for MECH 105 utilizing different numerical methods.
 3. **LU Factorization (luFactor):**
      - luFactor will determine the LU factorization of a square coeficient matrix along with a permutation matrix.
 4. **Simpson's 1/3 Algorithm (Simpson):**
-     - Simpson is a matlab function that will perform the composite Simpson's 1/3 rule in order to estimate the definite integral of a given function. 
+     - Simpson is a matlab function that will perform the composite Simpson's 1/3 rule in order to estimate the definite integral of a given data set. 
      
  
 
