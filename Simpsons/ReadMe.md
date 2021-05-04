@@ -1,6 +1,6 @@
 ## Simpson's 1/3 rule Function
 
-Simpson is a matlab function that will perform numerical integration with the composite Simpson's 1/3 rule by comparing a vector of independent variables (x) to dependent variables (y).
+Simpson is a matlab function that will perform numerical integration with the composite Simpson's 1/3 rule by comparing a vector of independent variables (x) to dependent variables (y). The function needs at bare minimum 3 data points and works best with an odd number of data points past 3. If an even number of points are given, the trapezoidal rule is used to integrate between the last two remaining points.
 
 **[I] = Simpson(x,y)**
 
