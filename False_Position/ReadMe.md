@@ -2,7 +2,7 @@
 
 falsePosition is a matlab function that uses the false position method to guess the root of f(x) between 2 points.
 
-**function [root, fx, ea, iter] = falsePosition(func, xl, xu, es, maxit, varargin)
+**function [root, fx, ea, iter] = falsePosition(func, xl, xu, es, maxit, varargin)**
 
 ### Inputs:
 - **func:** anynomous function of a given independent variable (x). for example fx= @(x) x^3 + 5;
